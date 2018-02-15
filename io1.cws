@@ -1,0 +1,193 @@
+[Workspace Header]
+Version = 1700
+Pathname = "/c/Users/User/Desktop/ENGINEER/4th_year/cvi/analyzer/io1.cws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2017"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2017"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "io1.prj"
+Drag Bar Left = 325
+Window Top = 31
+Window Left = 41
+Window Bottom = 637
+Window Right = 1251
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 3
+Window Confinement Region Enabled = True
+MainColumnWidth = 308
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1700
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug64"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path = "/c/Users/User/Desktop/ENGINEER/4th_year/cvi/analyzer/io1.uir"
+File Type = "User Interface Resource"
+Disk Date = 3601536843
+In Projects = "1,"
+Window Top = 245
+Window Left = 114
+Window Height = 427
+Window Width = 768
+Window Z-Order = 2
+
+[File 0002]
+Path = "/c/Users/User/Desktop/ENGINEER/4th_year/cvi/analyzer/io1.c"
+File Type = "CSource"
+Disk Date = 3601540181
+In Projects = "1,"
+Window Top = 219
+Window Left = 98
+Window Z-Order = 1
+Source Window State = "1,60,60,60,32,34,34,0,0,130,0,214,0,3,0,21,51,0,60,32,427,768,1,19,"
+
+[File 0003]
+Path Line0001 = "/c/Users/User/Desktop/ENGINEER/c_libs/pa_stable_v190600_20161030/pa_stable_v1906"
+Path Line0002 = "00_20161030/portaudio/build/msvc/x64/Debug/portaudio_x64.lib"
+File Type = "Library"
+Disk Date = 3598187984
+In Projects = "1,"
+
+[File 0004]
+Path = "/c/Users/User/Desktop/ENGINEER/4th_year/cvi/analyzer/defines.h"
+File Type = "Include"
+Disk Date = 3600989346
+In Projects = "1,"
+Window Top = 157
+Window Left = 66
+Window Z-Order = 3
+Source Window State = "1,46,46,46,28,37,37,0,3,80,0,76,0,76,0,25,37,0,46,28,427,768,1,0,"
+
+[File 0005]
+Path Line0001 = "/c/Users/User/Desktop/ENGINEER/c_libs/pa_stable_v190600_20161030/pa_stable_v1906"
+Path Line0002 = "00_20161030/portaudio/include/portaudio.h"
+File Type = "Include"
+Disk Date = 3560635384
+In Projects = "1,"
+Window Top = 188
+Window Left = 82
+Source Window State = "1,711,711,711,22,43,43,0,3,0,0,0,0,0,0,0,766,0,711,22,427,768,1,0,"
+
+[Tab Order]
+Tab 0001 = "/c/Users/User/Desktop/ENGINEER/4th_year/cvi/analyzer/io1.uir"
+Tab 0002 = "/c/Users/User/Desktop/ENGINEER/4th_year/cvi/analyzer/io1.c"
+Tab 0003 = "/c/Users/User/Desktop/ENGINEER/4th_year/cvi/analyzer/defines.h"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
+[Distributions]
+Active Index = 1
+AbsCDSPath 0001 = "/c/Users/User/Desktop/ENGINEER/4th_year/cvi/analyzer/Io1.cds"
+RelCDSPath 0001 = "Io1.cds"
+
